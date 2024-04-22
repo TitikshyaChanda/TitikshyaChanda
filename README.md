@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TitikshyaChanda
 - 👀 I’m interested in learning and exploring new things.
-- 🌱 I’m currently learning java and web development.
+- 🌱 I’m currently learning python and web development.
 - 💞️ I’m looking to collaborate for internships.
 - 📫 Reach me through my mail : titikshyachanda@gmail.com
 
